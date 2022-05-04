@@ -1,1 +1,1 @@
-## Hafta 3 Ödevi Sql Scripti
+## LCWaikiki Bootcamp Ödevleri
